@@ -9,3 +9,14 @@ https://youtu.be/VbqbnO8n48w
 <hr>
 
 <br>
+
+
+# OpenAI - Chat GPT
+
+https://openai.com/blog/chatgpt/
+
+
+<hr>
+
+<br>
+
